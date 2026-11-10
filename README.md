@@ -119,10 +119,7 @@ Los archivos CSV de partición conservan las rutas utilizadas en Google Colab, p
 ## 8. Autor
 
 **Marcos Lévano Huamaccto**  
-Grupo 23  
-Máster Universitario en Inteligencia Artificial  
-Universidad Internacional de Valencia (VIU)  
-2026
+Grupo 23
 
 ---
 
